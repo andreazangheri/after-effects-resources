@@ -15,13 +15,14 @@
 
 #### Resources
 
-A curated list of awesome After Effects resources.
+A curated list of awesome After Effects web & motion design resources.
 
 ##### Motion Design
 
-*
-[Sketch2AE]()
-* [Bodymovin](https://www.invisionapp.com/inside-design/design-resources/free-wireframe-kit-form/) by Hernan Torrisi
+* [Sketch2AE](https://google.github.io/sketch2ae/) by Adam Plouff
+* [Bodymovin](https://github.com/airbnb/lottie-web/) by Hernan Torrisi
+* [Lottie](http://airbnb.io/lottie/) by Airbnb
+* [AEUX](https://adamplouf.github.io/aeux-doc) by Adam Plouff
 
 ##### Hand Off
 
