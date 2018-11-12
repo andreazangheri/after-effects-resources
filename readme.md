@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="./icon.png"><img src="./icon.png" alt="After Effects Icon" width="200" height="auto"></a>
+  <a href="./assets/icon.png"><img src="./assets/icon.png" alt="After Effects Icon" width="200" height="auto"></a>
   <br>
   <br>
   After Effects Resources
@@ -8,9 +8,7 @@
 <h4 align="center">Repository with useful design resources</h4>
 
 <p align="center">
-  <a href="./icon.png"><img src="https://img.shields.io/badge/app-After%20Effects-2a0a50.svg" alt="After Effects App"></a>
-  <a href="https://github.com/typerror/after-effects-resources/releases"><img src="https://img.shields.io/github/release/typerror/after-effects-resources.svg" alt="Release"></a>
-  <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"></a>
+<img src="https://img.shields.io/badge/app-After%20Effects-2a0a50.svg" alt="After Effects App">
 </p>
 
 #### Resources
