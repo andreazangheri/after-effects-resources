@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="./assets/icon.png"><img src="./assets/icon.png" alt="After Effects Icon" width="200" height="auto"></a>
+  <a href="./assets/logo.png"><img src="./assets/logo.png" alt="After Effects Icon" width="200" height="auto"></a>
   <br>
   <br>
   After Effects Resources
