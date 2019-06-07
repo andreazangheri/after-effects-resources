@@ -26,10 +26,6 @@ A curated list of awesome After Effects web & motion design resources.
 
 * [Inspector SpaceTime](https://google.github.io/inspectorspacetime/) by Adam Plouff
 
-#### Code Style
-
-[![code style: prettier](https://img.shields.io/badge/code_style-prettier-2a0a50.svg)](https://github.com/prettier/prettier)
-
 #### License
 
 All trademarks and copyrights are property of their respective owners.
